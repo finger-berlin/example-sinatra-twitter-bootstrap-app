@@ -5,6 +5,6 @@ example ruby 2.0.0, sinatra, twitter bootstrap and haml based app
 
 * theme is http://getbootstrap.com/examples/starter-template/
 
-* why Fascade as class name? A tribute to Mathias Fiedler ;-)
+* why Fascade as class name? A tribute to Mathias Fiedler (https://github.com/majofi) ;-)
 
 Feel free to use and adopt this to your own needs. You're welcome.
